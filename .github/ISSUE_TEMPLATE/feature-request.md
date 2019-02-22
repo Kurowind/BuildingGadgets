@@ -11,3 +11,12 @@ assignees: ''
 ----------------------------------------------------------------------------
 After deleting this template, please provide the following information:
 * A detailed explanation of the suggestion
+
+---
+name: Kurowind
+about: Editing Saved Templates, aka gui that you can swap blocks (example) you save a template of a custom tree, then you wish to swap oak for Greatwood logs and oak leaves for Greatwood leaves.
+title: ''
+labels: ''
+assignees: ''
+
+---
